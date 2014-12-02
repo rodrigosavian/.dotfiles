@@ -36,6 +36,7 @@ syntax on
 set encoding=utf-8
 inoremap jj <ESC>
 let mapleader = ","
+set backspace=indent,eol,start
 
 let g:neocomplete#enable_at_startup = 1
 
